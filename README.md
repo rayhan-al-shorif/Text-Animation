@@ -1,4 +1,4 @@
 # Text-Animation
-Quiz Game 👍Text Animation ✔️Using Html, CSS and JavaScript
+👍Text Animation ✔️Using Html, CSS and JavaScript
 
-Live Link: https://rayhan133.github.io/Text-Animation
+Live Link: https://rayhan-al-shorif.github.io/Text-Animation
